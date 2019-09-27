@@ -21,4 +21,5 @@ Pull data from other sensors such as the gyroscope to make inferences about gait
 Calculate duration ratios between feet and even different parts of the stride for a given foot
 
 *** COMMENTS ***
+
 Later in the project, I worked with another member of my group to translate this script into Swift in order to more efficiently run in the app.
